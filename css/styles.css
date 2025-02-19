@@ -1,3 +1,29 @@
 .navbar-brand span{
   color: #f9b03d;
 }
+
+.btn-primary{
+  background-color: #f9b03d;
+  border-color: #f9b03d;
+  border-radius: 40px;
+  width: 200px;
+}
+
+.btn-primary:hover {
+  background-color: #e29d2f;
+  border-color: #c98a26;
+
+}
+
+
+
+.btn-secondary{
+  background-color: #128bbb;
+  border-color: #128bbb;
+  border-radius: 40px;
+  width: 200px;
+}
+
+.btn-secondary:hover {
+  background-color: #0e64aa;
+}
