@@ -27,3 +27,43 @@
 .btn-secondary:hover {
   background-color: #0e64aa;
 }
+
+.carousel-caption {
+  transform: translateY(-200px);
+}
+
+
+.carousel-caption p{
+  font-size: 1.5rem;
+  text-shadow: 2px 2px 4px black;
+}
+
+
+.carousel-caption h5{
+  font-size: 4rem;
+  text-shadow: 2px 2px 4px black;
+}
+
+
+.quienes {
+  margin-top: 2rem;
+
+}
+
+.card{
+  cursor: pointer;
+  overflow: hidden;
+}
+
+.card img{
+  transition: .5s;
+}
+
+.card:hover img {
+  transform: scale(1.1);
+}
+
+.card-text {
+  color: #f9b03d;
+  font-weight: 800;
+}
